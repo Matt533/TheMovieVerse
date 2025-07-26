@@ -11,7 +11,7 @@ It integrates with the **TMDB (The Movie Database) API** to fetch a real-time mo
   - Mark movies as **watched** or **unwatched**
   - Add or remove movies from their **Favorite List**
 - 🌐 Integration with **[TMDB API](https://www.themoviedb.org/documentation/api)** for movie metadata
-- 🔐 Scalable structure for future authentication
+- 🔐 Authentication & Authorization with .NET Identity Core & JWT Tokens
 
 ---
 
